@@ -24,8 +24,8 @@ El NoteBook responde a las preguntas planteadas en el formulario de la práctica
 ## Autoría
 <table>
  <tr>
-  <td><h1>Contribuciones</h1></td>
-  <td><h1>Firma</h1></td>
+  <td><h2>Contribuciones</h2></td>
+  <td><h2>Firma</h2></td>
  </tr>
  <tr>
   <td>Investigación previa</td>
