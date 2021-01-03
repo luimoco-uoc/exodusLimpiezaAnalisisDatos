@@ -23,10 +23,10 @@ El NoteBook responde a las preguntas planteadas en el formulario de la práctica
   
 ## Autoría
 <table>
- <th>
-  <td>Contribuciones</td>
-  <td>Firma</td>
- </th>
+ <tr>
+  <td><h1>Contribuciones</h1></td>
+  <td><h1>Firma</h1></td>
+ </tr>
  <tr>
   <td>Investigación previa</td>
   <td>LMMC</td>
