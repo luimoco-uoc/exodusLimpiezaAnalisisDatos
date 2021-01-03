@@ -50,7 +50,7 @@ El NoteBook responde a las preguntas planteadas en el formulario de la práctica
 * **df_exodus_original.zip**: El fichero CSV comprimido con los datos originales integrados.
 * **df_exodus_final_analizado.zip**: El fichero CSV comprimido con los datos originales seleccionados y analizados.
   
-* **/data/**: Directorio con los ficheros de datos que deben ubicarse en esta ruta que es referenciada desde el código en *M2.851_2020_Práctica2_luimoco.ipynb
+* **/data/**: Directorio con los ficheros de datos que deben ubicarse en esta ruta que es referenciada desde el código en *M2.851_2020_Práctica2_luimoco.ipynb*
   * **/data/exodusNoIcon.json.md**: Wiki que indica dónde obtener el fichero json fruto del web scrapping de la práctica 1.
   * **/data/Google-Playstore.csv.md**: Wiki que indica dónde obtener el fichero csv de integración obtenido de Kaggle.
   * **/data/exodusAppId.csv**: Dataset en formato CSV obtenido por la ejecución del web scraper desarrollado en*exodusAppID.ipynb*.
