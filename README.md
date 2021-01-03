@@ -20,8 +20,31 @@ El NoteBook responde a las preguntas planteadas en el formulario de la práctica
 * Planteamiento y resolución de problemas gracias a los datos obtenidos, limpiados y analizados
   * Agrupamiento
   * Clasificación
-
+  
+## Autoría
+<table>
+ <th>
+  <td>Contribuciones</td>
+  <td>Firma</td>
+ </th>
+ <tr>
+  <td>Investigación previa</td>
+  <td>LMMC</td>
+ </tr>
+ <tr>
+  <td>Redacción de respuestas</td>
+  <td>LMMC</td>
+ </tr>
+ <tr>
+  <td>Desarrollo código</td>
+  <td>LMMC</td>
+ </tr>
+ </table>
 ## Código fuente y recursos
+* 
+
+
+
 * **src/exodusWS.py**: Script de python con el programa principal y métodos utilizados para el rastreo.
 * **data/exodus.md**: Enlaces para obtener los datasets exodus.zip y exodusNoIcon.zip obtenidos a fecha 08/11/2020.
 * **rsc/M.2851_PRA1_luimoco.pdf**: Informe de respuesta a los objetivos demandados en la práctica.
