@@ -40,14 +40,20 @@ El NoteBook responde a las preguntas planteadas en el formulario de la práctica
   <td>LMMC</td>
  </tr>
  </table>
+
 ## Código fuente y recursos
-* 
-
-
-
-* **src/exodusWS.py**: Script de python con el programa principal y métodos utilizados para el rastreo.
-* **data/exodus.md**: Enlaces para obtener los datasets exodus.zip y exodusNoIcon.zip obtenidos a fecha 08/11/2020.
-* **rsc/M.2851_PRA1_luimoco.pdf**: Informe de respuesta a los objetivos demandados en la práctica.
-* **rsc/Consideraciones Teóricas User-Agents.pdf**: Documento de análisis de requisitos de un buen user-agent recopilados del libro de texto.
-* **rsc/Análisis Exodus User-Agent.pdf**: Documento de análisis del rastreador.
-* **rsc/Diseño Exodus User-Agent.pdf**: Documento de diseño del rastreador.
+* **M2.851_2020_Práctica2_luimoco.html**: Documento Notebook con las respuestas y su desarrollo en código. *¡Es preferible este formato al PDF!*
+* **M2.851_2020_Práctica2_luimoco.pdf**: Documento PDF con las respuestas y su desarrollo en código.
+* **M2.851_2020_Práctica2_luimoco.ipynb**: Código Jupyter Notebook con el código y su ejecución. *Para la ejecución y visualización de imágenes, es necesario disponer de las carpetas data y src. En esta primera aplicando las instrucciones descritas más adelante*
+* **exodusAppID.ipynb**: Código Jupyter Notebook con el Web Scraper realizado como parte necesaria para la integración de datos externos.
+* **README.md**: Esta misma WIKI
+* **df_exodus_original.zip**: El fichero CSV comprimido con los datos originales integrados.
+* **df_exodus_final_analizado.zip**: El fichero CSV comprimido con los datos originales seleccionados y analizados.
+  
+* **/data/**: Directorio con los ficheros de datos que deben ubicarse en esta ruta que es referenciada desde el código en *M2.851_2020_Práctica2_luimoco.ipynb
+ * **/data/exodusNoIcon.json.md**: Wiki que indica dónde obtener el fichero json fruto del web scrapping de la práctica 1.
+ * **/data/Google-Playstore.csv.md**: Wiki que indica dónde obtener el fichero csv de integración obtenido de Kaggle.
+ * **/data/exodusAppId.csv**: Dataset en formato CSV obtenido por la ejecución del web scraper desarrollado en*exodusAppID.ipynb*.
+ * **/data/img/1.png**: Imagen de uno de los iconos de aplicación para ilustrar en el código los tipos de dataset origen de datos de *Exodus* considerados.
+  
+* **/src/**: El directorio contiene 5 imágenes utilizadas para ilustrar las explicaciones del desarrollo de las preguntas de la práctica.
